@@ -1,0 +1,9 @@
+mysql-connector-python
+Pillow
+pyqt5              # Optional: for a more advanced GUI
+opencv-python      # Optional: for advanced image processing
+reportlab          # Optional: for generating PDFs
+requests           # Optional: for making HTTP requests
+numpy              # Optional: for numerical computations
+matplotlib         # Optional: for data visualization
+pytest             # Optional: for testing
